@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/05/01-git/02-git-s-code/git-vs-code/"}
+{"dg-publish":true,"permalink":"/01-dev-stack/05/01-git/02-git-s-code/git-vs-code/","dg-note-properties":{"작성일":"2026-01-26T11:05","수정일":"2026-01-29T09:08"}}
 ---
 
 # VSCode, antigravity git# VSCode 및 GitHub Desktop 초기 연동 설정

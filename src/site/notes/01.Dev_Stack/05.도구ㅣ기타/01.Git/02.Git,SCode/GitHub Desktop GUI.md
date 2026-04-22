@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/05/01-git/02-git-s-code/git-hub-desktop-gui/"}
+{"dg-publish":true,"permalink":"/01-dev-stack/05/01-git/02-git-s-code/git-hub-desktop-gui/","dg-note-properties":{"작성일":"2026-01-26T12:34","수정일":"2026-01-26T12:34"}}
 ---
 
 # GitHub Desktop 기반 VSCode 연동 및 Git 워크플로우

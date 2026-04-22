@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/04/01-sql/08/mapper-sql/"}
+{"dg-publish":true,"permalink":"/01-dev-stack/04/01-sql/08/mapper-sql/","dg-note-properties":{"작성일":"2026-01-20T16:58","수정일":"2026-01-20T16:59"}}
 ---
 
 ## 1. 데이터베이스 스키마 설계

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/03/06-react/04-router/browser-router/"}
+{"dg-publish":true,"permalink":"/01-dev-stack/03/06-react/04-router/browser-router/","dg-note-properties":{"작성일":"2026-01-09T18:15","수정일":"2026-02-09T14:30"}}
 ---
 
 # React Router 기능별 상세 구현 및 보안 전략 아키텍처

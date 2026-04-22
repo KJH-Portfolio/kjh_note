@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/02/05-spring/02-boot/03-jwt/jwt/"}
+{"dg-publish":true,"permalink":"/01-dev-stack/02/05-spring/02-boot/03-jwt/jwt/","dg-note-properties":{"작성일":"2026-02-05T01:55","수정일":"2026-02-05T10:27"}}
 ---
 
 # 🔎 JWT 인증 시스템 : 로그인, 웹소켓
