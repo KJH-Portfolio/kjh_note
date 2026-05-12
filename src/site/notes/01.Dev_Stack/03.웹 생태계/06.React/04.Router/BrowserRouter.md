@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/03/06-react/04-router/browser-router/","dg-note-properties":{"작성일":"2026-01-09T18:15","수정일":"2026-02-09T14:30"}}
+dg-publish: true
+작성일: 2026-01-09T18:15
+수정일: 2026-04-22T21:35
 ---
-
 # React Router 기능별 상세 구현 및 보안 전략 아키텍처
 > [!summary] 요약
 > `react-router-dom` API 체계의 구조적 분석, Web Storage 연계 보안 전략, `<Navigate>`의 `state` 속성을 활용한 선언적 경로 보존 및 복구 메커니즘 정립.
@@ -60,7 +61,7 @@ const UserProfile = () => {
 ```
 ---
 ## Navigate 및 고도화된 라우팅 패턴
-* [[3. Resource/01.Dev_Stack/03.웹 생태계/06.React/03.API/02.Navigate\|02.Navigate]]
+* [[3. Resource/03.Dev_Stack/03.웹 생태계/06.React/03.API/02.Navigate|02.Navigate]]
 * **state 속성**: History API 기반 비노출 데이터 은닉 전달 및 경로 보존.
 * **중첩 라우팅 (Nested Routing)**: 상위 Route 내 하위 자식 Route를 포함하는 계층적 구조.
 * **Outlet**: 부모 컴포넌트 내 자식 라우트 컴포넌트 렌더링 영역 지정.

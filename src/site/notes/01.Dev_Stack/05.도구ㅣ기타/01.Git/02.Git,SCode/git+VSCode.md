@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/05/01-git/02-git-s-code/git-vs-code/","dg-note-properties":{"작성일":"2026-01-26T11:05","수정일":"2026-01-29T09:08"}}
+dg-publish: true
+작성일: 2026-01-26T11:05
+수정일: 2026-01-29T09:08
 ---
-
 # VSCode, antigravity git# VSCode 및 GitHub Desktop 초기 연동 설정
 > [!summary] 요약: Git 설치 단계의 에디터 및 브랜치 기본값 구성, GitHub Desktop 내 외부 에디터 통합 설정을 통한 VSCode 연동 프로세스.
 ## Git 및 저장소 초기 설치

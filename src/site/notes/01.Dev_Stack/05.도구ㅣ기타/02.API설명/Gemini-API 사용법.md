@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/05/02-api/gemini-api/","dg-note-properties":{"작성일":"2026-01-14","tags":null,"수정일":"2026-01-14T22:27"}}
+dg-publish: true
+작성일: 2026-01-14
+tags:
+수정일: 2026-01-14T22:27
 ---
-
 maven등록
 ```xml
 <dependencies>

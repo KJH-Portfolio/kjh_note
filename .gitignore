@@ -11,3 +11,7 @@ src/site/styles/_theme.*.css
 .cache
 _site/
 **/.DS_Store
+
+# Security & Private Notes
+**/깃허브 토큰.md
+.env

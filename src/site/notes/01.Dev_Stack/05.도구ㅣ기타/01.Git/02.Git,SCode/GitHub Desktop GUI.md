@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/05/01-git/02-git-s-code/git-hub-desktop-gui/","dg-note-properties":{"작성일":"2026-01-26T12:34","수정일":"2026-01-26T12:34"}}
+dg-publish: true
+작성일: 2026-01-26T12:34
+수정일: 2026-01-26T12:34
 ---
-
 # GitHub Desktop 기반 VSCode 연동 및 Git 워크플로우
 > [!summary] 요약: GitHub Desktop GUI를 활용한 브랜치 생성, 작업 저장(Commit), 서버 전송(Push), 최신화(Pull) 및 병합(Merge) 충돌 해결 절차 정리.
 ## 브랜치 관리 및 VSCode 연동

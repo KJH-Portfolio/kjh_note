@@ -1,0 +1,73 @@
+.footer {
+  background-color: var(--color-bg-primary);
+  margin-top: auto;
+  border-top: 1px solid var(--color-border);
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: var(--spacing-xl) var(--spacing-lg);
+}
+
+/* 링크 영역 */
+.links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: var(--spacing-sm);
+  padding-bottom: var(--spacing-lg);
+  border-bottom: 1px solid var(--color-border);
+  flex-wrap: wrap;
+}
+
+.link {
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-primary);
+  transition: color var(--transition-fast);
+}
+
+.link:hover {
+  color: var(--color-primary);
+}
+
+.divider {
+  color: var(--color-border);
+}
+
+/* 주소 정보 */
+.info {
+  padding: var(--spacing-lg) 0;
+  text-align: left;
+}
+
+.info p {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--spacing-xs);
+  line-height: var(--line-height-relaxed);
+}
+
+/* 저작권 */
+.copyright {
+  text-align: center;
+  padding-top: var(--spacing-md);
+  border-top: 1px solid var(--color-border);
+}
+
+.copyright p {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  margin: 0;
+}
+
+/* 반응형 */
+@media (max-width: 768px) {
+  .links {
+    gap: var(--spacing-xs);
+  }
+
+  .info {
+    text-align: center;
+  }
+}

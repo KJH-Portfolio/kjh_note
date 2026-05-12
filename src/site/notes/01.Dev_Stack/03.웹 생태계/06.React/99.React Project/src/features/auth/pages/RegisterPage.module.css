@@ -1,0 +1,74 @@
+.wrapper {
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-2xl);
+}
+
+.title {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+  color: var(--color-text-primary);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.idField {
+  position: relative;
+}
+
+.idCheckResult {
+  font-size: var(--font-size-xs);
+  margin-top: var(--spacing-xs);
+}
+
+.valid {
+  color: var(--color-success);
+}
+
+.invalid {
+  color: var(--color-danger);
+}
+
+.genderField {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+}
+
+.label {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-text-primary);
+}
+
+.radioGroup {
+  display: flex;
+  gap: var(--spacing-lg);
+}
+
+.radioLabel {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-text-primary);
+}
+
+.radioLabel input {
+  cursor: pointer;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing-md);
+  margin-top: var(--spacing-lg);
+}

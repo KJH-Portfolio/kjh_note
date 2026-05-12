@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/04/01-sql/08/sql/","dg-note-properties":{"작성일":"2026-01-20T16:54","수정일":"2026-01-20T23:10"}}
+dg-publish: true
+작성일: 2026-01-20T16:54
+수정일: 2026-01-20T23:10
 ---
-
 # MVC 패턴 기반 현대적 SQL 작성 및 데이터 관리 전략
 
 > [!summary]

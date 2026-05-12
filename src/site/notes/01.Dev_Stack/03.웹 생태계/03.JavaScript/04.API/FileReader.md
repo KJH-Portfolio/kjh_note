@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/03/03-java-script/04-api/file-reader/","dg-note-properties":{"작성일":"2026-01-09T18:06","수정일":"2026-02-27T00:26"}}
+dg-publish: true
+작성일: 2026-01-09T18:06
+수정일: 2026-02-27T00:26
 ---
-
 # React useRef 및 FileReader 핵심 요약 노트
 
 >[!summary]

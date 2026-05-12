@@ -1,0 +1,12 @@
+.layout {
+    display : flex;
+    flex-direction : column;
+    min-height: 100vh;
+}
+
+.main {
+    /* var() - css에서 변수 사용법 (변수로 지정한 파일에 있는 변수명을 사용하게 된다) */
+    flex : 1;
+    background-color: var(--color-bg-secondary);
+    padding : var(--spacing-xl) 0;
+}

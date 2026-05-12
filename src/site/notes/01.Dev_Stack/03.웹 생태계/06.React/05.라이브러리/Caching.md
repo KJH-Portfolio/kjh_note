@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/03/06-react/05/caching/","dg-note-properties":{"작성일":"2026-02-13T14:22","수정일":"2026-02-13T14:32"}}
+dg-publish: true
+작성일: 2026-02-13T14:22
+수정일: 2026-02-13T14:32
 ---
-
 # React Client-Side Caching Strategy
 > [!summary] 핵심 요약
 > 

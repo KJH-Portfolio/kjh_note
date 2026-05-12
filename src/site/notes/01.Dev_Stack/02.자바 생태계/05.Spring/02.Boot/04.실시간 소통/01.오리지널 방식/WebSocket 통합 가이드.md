@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-dev-stack/02/05-spring/02-boot/04/01/web-socket/","dg-note-properties":{"작성일":"2026-02-23T00:48","수정일":"2026-02-24T22:28"}}
+dg-publish: true
+작성일: 2026-02-23T00:48
+수정일: 2026-02-24T22:28
 ---
-
 # Spring WebSocket & React JWT 통합 인증 아키텍처
 > [!summary] 핵심 요약
 > 
