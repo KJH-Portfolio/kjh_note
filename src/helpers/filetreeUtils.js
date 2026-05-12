@@ -99,7 +99,9 @@ function getPermalinkMeta(note, key) {
   let pinned = false;
   let folders = null;
   try {
-    if (note.data.permalink) {
+    if (note.url) {
+      permalink = note.url;
+    } else if (note.data.permalink) {
       permalink = note.data.permalink;
     }
     if (note.data.tags && note.data.tags.indexOf("gardenEntry") != -1) {
